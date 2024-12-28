@@ -11,13 +11,29 @@
 🎓 **CS & Math Major** @ University of Richmond (Class of 2028)  
 🧠 Problem-solver | Creative thinker | Math lover | Lifelong learner  
 🇺🇸 Based in Brooklyn, New York  
-🌍 Originally from Thailand!
+🌍 Made In Thailand! 
 
 > “The best way to predict the future is to create it.”
 > 
 > “Become a Jellyfish, the same way they produce their own light! ”
->
-> "Carpe Diem - Sieze the day!"
+
+---
+
+## 🏆 **Achievements**  
+🎖 **Apple Inc. 2022 Swift Student Challenge Winner** (Top 10% of 3,000+ global contestants)  
+🥈 **Silver Medal** @ Indonesia’s Youth International Science Fair (NLP Chatbot)  
+🏅 **CTF Champion** @ University of Richmond Fall 2024 (Assura Inc.)  
+🥇 **1st Runner-Up** @ Science & Tech Idea Contest (Non-Invasive Blood Sugar Reader)
+
+---
+
+## 📊 **GitHub Stats**  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaveMatNat&show_icons=true&theme=vision-friendly-dark" alt="David's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DaveMatNat&theme=vision-friendly-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveMatNat&layout=donut&theme=vision-friendly-dark" alt="Top Langs" />
+</div>
 
 ---
 
@@ -48,20 +64,6 @@
 
 ---
 
-## 🏆 **Achievements**  
-🎖 **Apple Inc. 2022 Swift Student Challenge Winner** (Top 10% of 3,000+ global contestants)  
-🥈 **Silver Medal** @ Indonesia’s Youth International Science Fair (NLP Chatbot)  
-🏅 **CTF Champion** @ University of Richmond Fall 2024 (Assura Inc.)  
-🥇 **1st Runner-Up** @ Science & Tech Idea Contest (Non-Invasive Blood Sugar Reader)
-
----
-
-## 📊 **GitHub Stats**  
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaveMatNat&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaveMatNat&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DaveMatNat&theme=radical)
-
----
 
 ## 🔍 **What I’m Working On**  
 - 🧠 Exploring AI, machine learning, and hacking & security for **CTF challenges**  
