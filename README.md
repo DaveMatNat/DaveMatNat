@@ -1,25 +1,34 @@
-# 👋 Hey there! I'm **David**  
+ <h1 align="center">🙏 Sawasdee Krub! You can call me David 🧑‍💻</h1>
+ 
+```bash
+$ whoami
+> DaveMatNat
+
+$ motto -quirky
+> "Become a Jellyfish, the same way they produce their own light!"
+
+$ mission
+> "Turning curiosity into innovation, one line of code at a time."
+```
+
+**Welcome to my GitHub**, where abstract ideas turn into tangible projects! As a Computer Science and Mathematics enthusiast, I explore the boundaries of technology, from crafting accessible tools to tackling complex challenges. This is more than a portfolio—it’s a glimpse into my journey of turning curiosity into innovation.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-m-nathanson/) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://davematnat.com/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:davidmatthewnathanson@gmail.com)  
-[![GitHub](https://img.shields.io/github/followers/DaveMatNat?label=Follow&style=social)](https://github.com/DaveMatNat)
 
 ---
 
-## 🌟 **About Me**  
+# 🌟 **About Me**  
 🎓 **CS & Math Major** @ University of Richmond (Class of 2028)  
 🧠 Problem-solver | Creative thinker | Math lover | Lifelong learner  
 🇺🇸 Based in Brooklyn, New York  
-🌍 Made In Thailand! 
-
-> “The best way to predict the future is to create it.”
-> 
-> “Become a Jellyfish, the same way they produce their own light! ”
+🇹🇭 Made In Thailand!    
+🗣 **Bilingual**: Native in **English** and **Thai**! 
 
 ---
 
-## 🏆 **Achievements**  
+# 🏆 **Achievements**  
 🎖 **Apple Inc. 2022 Swift Student Challenge Winner** (Top 10% of 3,000+ global contestants)  
 🥈 **Silver Medal** @ Indonesia’s Youth International Science Fair (NLP Chatbot)  
 🏅 **CTF Champion** @ University of Richmond Fall 2024 (Assura Inc.)  
@@ -27,7 +36,7 @@
 
 ---
 
-## 📊 **GitHub Stats**  
+# 📊 **GitHub Stats**  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DaveMatNat&show_icons=true&theme=vision-friendly-dark" alt="David's GitHub Stats" />
@@ -42,35 +51,37 @@
 
 ---
 
-## 🛠 **Tech Stack**  
+# 🧑‍💻 **Tech Stack**  
 ### **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ### **Frameworks & Libraries**  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffff00.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### **Tools & Platforms**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat&logo=xcode&logoColor=white)
-![Adobe CC](https://img.shields.io/badge/-Adobe%20CC-FF0000?style=flat&logo=adobe&logoColor=white)
+### **Tools & Platforms**
+![Adobe CC](https://img.shields.io/badge/-Adobe%20CC-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaveMatNat)
 
 ---
 
 
-## 🔍 **What I’m Working On**  
+### 🔍 **What I’m Working On**  
 - 🧠 Exploring AI, machine learning, and hacking & security for **CTF challenges**  
 - 🚀 Developing cool projects like **SierraAI** and **UnWasteIt**
 - 📄 Undergraduate research with the university's faculty members
@@ -86,4 +97,4 @@
 
 ---
 
-⭐ **Fun Fact:** I’m a volleyball player who thrives on teamwork and strategy—both on the court and in coding!  
+⭐ **Fun Fact:** I’m a volleyball player who thrives on teamwork and strategy—both on the court and in programming!  
