@@ -42,9 +42,6 @@ $ mission
   <img src="https://github-readme-stats.vercel.app/api?username=DaveMatNat&show_icons=true&theme=vision-friendly-dark" alt="David's GitHub Stats" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DaveMatNat&theme=vision-friendly-dark" alt="GitHub Streak" />
-</div>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaveMatNat&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
 </div>
 
