@@ -89,7 +89,7 @@ $ mission
 💌 Feel free to reach out and collaborate!  
 - 🌐 [**Portfolio**](https://davematnat.com/)  
 - 🐈 [**GitHub**](https://github.com/DaveMatNat)  
-- 📩 [**Email Me**](mailto:davidmatthewnathanson@gmail.com)
+- 📩 [**Email Me**](mailto:davematnat@gmail.com)
 
 ---
 
