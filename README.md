@@ -19,7 +19,7 @@ $ mission
 
 ---
 
-# 🌟 **About Me**  
+# 🌟 **A little About Me**  
 🎓 **CS & Math Major** @ University of Richmond (Class of 2028)  
 🧠 Problem-solver | Creative thinker | Math lover | Lifelong learner  
 🇺🇸 Based in Brooklyn, New York  
