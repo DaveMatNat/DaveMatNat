@@ -31,7 +31,7 @@ $ mission
 # 🏆 **Achievements**  
 🎖 **Apple Inc. 2022 Swift Student Challenge Winner** (Top 10% of 3,000+ global contestants)  
 🥈 **Silver Medal** @ Indonesia’s Youth International Science Fair (NLP Chatbot)  
-🏅 **CTF Champion** @ University of Richmond Fall 2024 (Assura Inc.)  
+🏅 **2x CTF Champion** @ University of Richmond Fall 2024 (Assura Inc.)  
 🥇 **1st Runner-Up** @ Science & Tech Idea Contest (Non-Invasive Blood Sugar Reader)
 
 ---
