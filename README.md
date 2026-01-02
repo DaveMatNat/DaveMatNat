@@ -19,7 +19,7 @@ $ motto -quirky
 # 🌟 **A little About Me**  
 🎓 **CS & Math Major** @ University of Richmond (Class of 2028)  
 🧠 Problem-solver | Creative thinker | Math lover | Lifelong learner  
-🇺🇸 Based in Brooklyn, New York  
+🇺🇸 Based in New York City
 🇹🇭 Made In Thailand!    
 🗣 **Bilingual**: Native in **English** and **Thai**! 
 
