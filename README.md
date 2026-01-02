@@ -6,9 +6,6 @@ $ whoami
 
 $ motto -quirky
 > "Become a Jellyfish, the same way they produce their own light!"
-
-$ mission
-> "Turning curiosity into innovation, one line of code at a time."
 ```
 
 **Welcome to my GitHub**, where abstract ideas turn into tangible projects! As a Computer Science and Mathematics enthusiast, I explore the boundaries of technology, from crafting accessible tools to tackling complex challenges. This is more than a portfolio—it’s a glimpse into my journey of turning curiosity into innovation.
@@ -29,10 +26,11 @@ $ mission
 ---
 
 # 🏆 **Achievements**  
+🥇 **1st Runner-Up – Accelerate DC Pitch Competition** (Ranked top 2 of 23 teams; awarded $2,000) 
 🎖 **Apple Inc. 2022 Swift Student Challenge Winner** (Top 10% of 3,000+ global contestants)  
-🥈 **Silver Medal** @ Indonesia’s Youth International Science Fair (NLP Chatbot)  
-🏅 **2x CTF Champion** @ University of Richmond Fall 2024 (Assura Inc.)  
+🏅 **2x CTF Champion** @ University of Richmond Fall 2024/2025 (Assura Inc.)  
 🥇 **1st Runner-Up** @ Science & Tech Idea Contest (Non-Invasive Blood Sugar Reader)
+🥈 **Silver Medal** @ Indonesia’s Youth International Science Fair (NLP Chatbot)  
 
 ---
 
@@ -76,7 +74,7 @@ $ mission
 
 ### 🔍 **What I’m Working On**  
 - 🧠 Exploring AI, machine learning, and hacking & security for **CTF challenges**  
-- 🚀 Developing cool projects like **SierraAI** and **UnWasteIt**
+- 🚀 Developing cool projects like **MENSA** and **SpiderBOT**
 - 📄 Undergraduate research with the university's faculty members
 - 🌱 Learning new tools and frameworks to push my skills further  
 
