@@ -1,11 +1,28 @@
  <h1 align="center">🙏 Sawasdee Krub! You can call me David 🧑‍💻</h1>
  
 ```bash
-$ whoami
-> DaveMatNat
+┌──(dave㉿matrix)-[~/life]
+└─$ whoami
+DaveMatNat
 
-$ motto -quirky
-> "Become a Jellyfish, the same way they produce their own light!"
+└─$ cat motto.txt
+"Become a jellyfish — bioluminesce your own path 🌊✨"
+
+└─$ skills --loading
+[████████████████████] 100% 
+> AI/ML: From theory to deployed models
+> Robotics: Teaching machines to see & navigate
+> Applied Math: Optimization is my love language
+
+└─$ fortune | cowsay
+ ________________________________
+< Work hard. Stay curious. Keep growing. >
+ --------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 ```
 
 **Welcome to my GitHub**, where abstract ideas turn into tangible projects! As a Computer Science and Mathematics enthusiast, I explore the boundaries of technology, from crafting accessible tools to tackling complex challenges. This is more than a portfolio—it’s a glimpse into my journey of turning curiosity into innovation.
@@ -35,39 +52,38 @@ $ motto -quirky
 ---
 
 # 🧑‍💻 **Tech Stack**  
+
 ### **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MIPS Assembly](https://img.shields.io/badge/-MIPS_Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### **Frameworks & Libraries**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### **Tools & Platforms**
-![Adobe CC](https://img.shields.io/badge/-Adobe%20CC-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaveMatNat)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Google APIs](https://img.shields.io/badge/-Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Unix/Linux](https://img.shields.io/badge/-Unix/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
@@ -87,5 +103,3 @@ $ motto -quirky
 - 📩 [**Email Me**](mailto:davematnat@gmail.com)
 
 ---
-
-⭐ **Fun Fact:** I’m a volleyball player who thrives on teamwork and strategy—both on the court and in programming!  
