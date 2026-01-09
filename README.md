@@ -29,7 +29,7 @@ DaveMatNat
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-m-nathanson/) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://davematnat.com/) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:davidmatthewnathanson@gmail.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:davematnat@gmail.com)  
 
 ---
 
