@@ -34,7 +34,7 @@ DaveMatNat
 ---
 
 # 🌟 **A little About Me**  
-🎓 **CS & Math Major** @ University of Richmond (Class of 2028)  
+🎓 **CS & Math Major** @ Vanderbilt (Class of 2028)  
 🧠 Problem-solver | Creative thinker | Math lover | Lifelong learner  
 🇺🇸 Based in New York City
 🇹🇭 Made In Thailand!    
